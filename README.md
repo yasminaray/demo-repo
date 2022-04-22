@@ -1,2 +1,2 @@
 # Leraning github
-exercise
+exercise and training
